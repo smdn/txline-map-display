@@ -20,7 +20,7 @@ This project is published under the MIT License, see [LICENSE](LICENSE).
   - [ ] 代替制御モジュールの作成
   - [ ] 制御ソフトウェアの作成
 - [ ] 原状での動作
-  - [ ] 制御モジュール[6M15040](doc/modules/6M15040/README.md)の動作把握
+  - [ ] 制御モジュール[6M15040](doc/modules/6M15040/README.md)の動作把握 ([issue #1](../../issues/1))
     - [ ] インターフェイス
     - [ ] プロトコル・コマンド
 

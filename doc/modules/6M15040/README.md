@@ -26,14 +26,14 @@ RS-485/RS-422(?)
 ### コネクタ`CN2`
 |端子|ラベル    |接続先|
 |---:|:---------|:-----|
-|1   |`TS541`   |[コネクタ](../../connector/README.md)|
+|1   |`TS541`   |[コネクタ](../external-connector/README.md)|
 |2   |-         |-|
-|3   |`TS542`   |[コネクタ](../../connector/README.md)|
+|3   |`TS542`   |[コネクタ](../external-connector/README.md)|
 |4   |-         |-|
-|5   |`TERM1`   |[コネクタ](../../connector/README.md)|
-|6   |`TS543`   |[コネクタ](../../connector/README.md)|
+|5   |`TERM1`   |[コネクタ](../external-connector/README.md)|
+|6   |`TS543`   |[コネクタ](../external-connector/README.md)|
 |7   |-         |-|
-|8   |`TERM2`   |[コネクタ](../../connector/README.md)|
+|8   |`TERM2`   |[コネクタ](../external-connector/README.md)|
 
 ### コネクタ`CN3`
 (接続先なし)

@@ -16,7 +16,7 @@ This project is published under the MIT License, see [LICENSE](LICENSE).
 
 # 目標
 - [ ] 代替制御モジュールでの動作
-  - [ ] 内部構成の調査・配線の記録
+  - [x] 内部構成の調査・配線の記録
   - [ ] 代替制御モジュールの作成
   - [ ] 制御ソフトウェアの作成
 - [ ] 原状での動作

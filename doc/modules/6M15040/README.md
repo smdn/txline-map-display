@@ -1,8 +1,8 @@
 # 森尾電機 6M15040
 停車駅・進行方向・開閉ドア表示制御モジュール
 
-<!-- ![基盤表面](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/modules/6M15040/board-front.jpg) -->
-<!-- ![基盤裏面](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/modules/6M15040/board-back.jpg) -->
+![基盤表面](https://github.com/smdn/txline-map-display/blob/images/doc/modules/6M15040/board-front.jpg)
+![基盤裏面](https://github.com/smdn/txline-map-display/blob/images/doc/modules/6M15040/board-back.jpg)
 
 ## インターフェイス
 RS-485/RS-422(?)
@@ -65,6 +65,6 @@ RS-485/RS-422(?)
 - `IC5` [NEC D431000AGZ-70LL-KJH](IC5/README.md)
 
 # 原状写真
-<!-- ![原状写真](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/modules/6M15040/original-condition_0.jpg) -->
-<!-- ![原状写真](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/modules/6M15040/original-condition_1.jpg) -->
-<!-- ![原状写真・ケーブル](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/modules/6M15040/original-condition_cable.jpg) -->
+![原状写真](https://github.com/smdn/txline-map-display/blob/images/doc/modules/6M15040/original-condition_0.jpg)
+![原状写真](https://github.com/smdn/txline-map-display/blob/images/doc/modules/6M15040/original-condition_1.jpg)
+![原状写真・ケーブル](https://github.com/smdn/txline-map-display/blob/images/doc/modules/6M15040/original-condition_cable.jpg)

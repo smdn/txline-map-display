@@ -18,7 +18,7 @@
 ![モジュール構成](./modular-diagram.svg)
 
 # 原状写真
-<!-- ![原状写真・全体](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/modules/original-condition_0.jpg) -->
-<!-- ![原状写真1](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/modules/original-condition_1.jpg) -->
-<!-- ![原状写真2](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/modules/original-condition_2.jpg) -->
-<!-- ![原状写真3](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/modules/original-condition_3.jpg) -->
+![原状写真・全体](https://github.com/smdn/txline-map-display/blob/images/doc/modules/original-condition_0.jpg)
+![原状写真1](https://github.com/smdn/txline-map-display/blob/images/doc/modules/original-condition_1.jpg)
+![原状写真2](https://github.com/smdn/txline-map-display/blob/images/doc/modules/original-condition_2.jpg)
+![原状写真3](https://github.com/smdn/txline-map-display/blob/images/doc/modules/original-condition_3.jpg)

@@ -3,7 +3,7 @@
 
 https://www.jotrin.jp/product/parts/D78P214CW_A_
 
-<!-- ![表面](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/modules/6M15040/IC1/face.jpg) -->
+![表面](https://github.com/smdn/txline-map-display/blob/images/doc/modules/6M15040/IC1/face.jpg)
 
 > NEC JAPAN
 > D78P214CW

@@ -4,8 +4,8 @@
 ## 7M37896
 停車駅・進行方向表示LEDモジュール(5駅分)
 
-<!-- ![基盤表面](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/modules/7M37896_8M49450/7M37896-board-front.jpg) -->
-<!-- ![基盤裏面](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/modules/7M37896_8M49450/7M37896-board-back.jpg) -->
+![基盤表面](https://github.com/smdn/txline-map-display/blob/images/doc/modules/7M37896_8M49450/7M37896-board-front.jpg)
+![基盤裏面](https://github.com/smdn/txline-map-display/blob/images/doc/modules/7M37896_8M49450/7M37896-board-back.jpg)
 
 `LED1〜15`はすべて🟥赤🟩緑二色LED。　12V、アノードコモン回路。
 
@@ -14,8 +14,8 @@
 ## 8M49450
 開閉ドア表示LEDモジュール。　7M37896のサブモジュールとして個別の基盤となっている。
 
-<!-- ![基盤表面](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/modules/7M37896_8M49450/8M49450-board-front.jpg) -->
-<!-- ![基盤裏面](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/modules/7M37896_8M49450/8M49450-board-back.jpg) -->
+![基盤表面](https://github.com/smdn/txline-map-display/blob/images/doc/modules/7M37896_8M49450/8M49450-board-front.jpg)
+![基盤裏面](https://github.com/smdn/txline-map-display/blob/images/doc/modules/7M37896_8M49450/8M49450-board-back.jpg)
 
 `LED1,2`はともに🟧橙色LED。　12V。
 

@@ -3,7 +3,7 @@
 
 [TDKラムダ 単相用小型角ケースタイプ ZGB-01Uシリーズ](https://product.tdk.com/ja/search/emc/emc/power-line/info?part_no=ZGB2203-01U) (生産中止)
 
-<!-- ![ケース表面](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/modules/ZGB2203-01U/case-front.jpg) -->
+![ケース表面](https://github.com/smdn/txline-map-display/blob/images/doc/modules/ZGB2203-01U/case-front.jpg)
 
 ## 接続
 |端子|ラベル    |接続先|
@@ -15,4 +15,4 @@
 |フレームグラウンド|(`GG`)|[ターミナルブロック](../terminal-block/README.md) 端子`1`, [SVS05SA](../SVS05SA/README.md) `GG`|
 
 # 原状写真
-<!-- ![原状写真](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/modules/ZGB2203-01U/original-condition_0.jpg) -->
+![原状写真](https://github.com/smdn/txline-map-display/blob/images/doc/modules/ZGB2203-01U/original-condition_0.jpg)

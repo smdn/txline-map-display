@@ -1,8 +1,8 @@
 # 森尾電機 7M37895
 停車駅・進行方向表示LEDモジュール(5駅分)
 
-<!-- ![基盤表面](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/modules/7M37895/board-front.jpg) -->
-<!-- ![基盤裏面](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/modules/7M37895/board-back.jpg) -->
+![基盤表面](https://github.com/smdn/txline-map-display/blob/images/doc/modules/7M37895/board-front.jpg)
+![基盤裏面](https://github.com/smdn/txline-map-display/blob/images/doc/modules/7M37895/board-back.jpg)
 
 `LED1〜16`はすべて🟥赤🟩緑二色LED。　12V、アノードコモン回路。
 

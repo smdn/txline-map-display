@@ -1,5 +1,5 @@
 # ターミナルブロック
-<!-- ![ターミナルブロック](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/modules/terminal-block/face.jpg) -->
+![ターミナルブロック](https://github.com/smdn/txline-map-display/blob/images/doc/modules/terminal-block/face.jpg)
 
 ## 接続
 |端子|ラベル    |接続先|
@@ -11,4 +11,4 @@
 |5   |`SP1・2`  |^|
 
 # 原状写真
-<!-- ![原状写真](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/modules/terminal-block/original-condition_0.jpg) -->
+![原状写真](https://github.com/smdn/txline-map-display/blob/images/doc/modules/terminal-block/original-condition_0.jpg)

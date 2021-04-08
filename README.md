@@ -1,8 +1,8 @@
 # つくばエクスプレス車内マップ式表示器解析プロジェクト
 [つくばエクスプレス](https://www.mir.co.jp/) [TX-1000系](https://ja.wikipedia.org/wiki/%E9%A6%96%E9%83%BD%E5%9C%8F%E6%96%B0%E9%83%BD%E5%B8%82%E9%89%84%E9%81%93TX-1000%E7%B3%BB%E9%9B%BB%E8%BB%8A)/[2000系](https://ja.wikipedia.org/wiki/%E9%A6%96%E9%83%BD%E5%9C%8F%E6%96%B0%E9%83%BD%E5%B8%82%E9%89%84%E9%81%93TX-2000%E7%B3%BB%E9%9B%BB%E8%BB%8A)車両の車内マップ式表示器([森尾電機](http://www.morio.co.jp/)・2004年3月製造)を解析して動作させるプロジェクトです。
 
-<!-- ![外観](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/exterior-frontside.jpg) -->
-<!-- ![銘板](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/nameplate.jpg) -->
+![外観](https://github.com/smdn/txline-map-display/blob/images/doc/exterior-frontside.jpg)
+![銘板](https://github.com/smdn/txline-map-display/blob/images/doc/nameplate.jpg)
 
 # ライセンス / License
 本プロジェクトは[MITライセンス](LICENSE)に基づき公開されています。

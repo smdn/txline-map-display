@@ -2,12 +2,12 @@
 
 [スリオジャパン 角形コネクタ Trim Trio-SMSシリーズ](http://www.souriau.co.jp/rectangular.html)
 
-<!-- ![左面](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/modules/external-connector/leftside.jpg) -->
-<!-- ![右面](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/modules/external-connector/rightside.jpg) -->
+![左面](https://github.com/smdn/txline-map-display/blob/images/doc/modules/external-connector/leftside.jpg)
+![右面](https://github.com/smdn/txline-map-display/blob/images/doc/modules/external-connector/rightside.jpg)
 
 ## 接続
-<!-- ![表面](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/modules/external-connector/face1.jpg) -->
-<!-- ![表面](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/modules/external-connector/face2.jpg) -->
+![表面](https://github.com/smdn/txline-map-display/blob/images/doc/modules/external-connector/face1.jpg)
+![表面](https://github.com/smdn/txline-map-display/blob/images/doc/modules/external-connector/face2.jpg)
 
 |端子|ラベル    |接続先|
 |---:|:---------|:-----|
@@ -31,4 +31,4 @@
 |18  |`GG`      |[ターミナルブロック](../terminal-block/README.md) 端子`1`|
 
 # 原状写真
-<!-- ![原状写真](https://raw.githubusercontent.com/smdn/txline-map-display/images/doc/modules/external-connector/original-condition_0.jpg) -->
+![原状写真](https://github.com/smdn/txline-map-display/blob/images/doc/modules/external-connector/original-condition_0.jpg)

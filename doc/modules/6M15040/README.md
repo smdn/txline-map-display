@@ -64,6 +64,31 @@ RS-485/RS-422(?)
 - `IC4` [STMicroelectronics M27C1001-10F1](IC4/README.md)
 - `IC5` [NEC D431000AGZ-70LL-KJH](IC5/README.md)
 
+## その他の入出力
+### 入力
+|スイッチ              |原状      |機能・用途・動作|
+|--------------------:|:---------|:--------------|
+|`SW1` NORMAL/TEST    |NORMAL    |動作モード切り替え NORMAL:通常運用モード TEST:テストモード (?)|
+|`SW2` UMI/YAMA       |YAMA      |取り付け位置切り替え UMI:海側 YAMA:山側 (?)|
+
+|ジャンパ              |原状      |機能・用途・動作|
+|--------------------:|:---------|:--------------|
+|`JP1` INT/EXT        |EXT       |信号入力モード? INT:internal EXT:external (?)|
+|`JP2` N/D            |N         |?|
+
+### 出力
+|LED          |機能・用途・動作|
+|------------:|:--------------|
+|`LED1` (🟡黄)|?|
+|`LED2` (🟢緑)|?|
+
+### 入出力
+|テストピン   |機能・用途・動作|
+|-----------:|:--------------|
+|`CP1` (🟡黄)|?|
+|`CP2` (🟡黄)|?|
+|`CP3` (🟡黄)|?|
+
 # 原状写真
 ![原状写真](https://github.com/smdn/txline-map-display/blob/images/doc/modules/6M15040/original-condition_0.jpg)
 ![原状写真](https://github.com/smdn/txline-map-display/blob/images/doc/modules/6M15040/original-condition_1.jpg)

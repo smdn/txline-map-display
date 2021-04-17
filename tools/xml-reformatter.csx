@@ -1,3 +1,5 @@
+#!/usr/bin/env dotnet-script
+//
 // requirements:
 //   .NET Core or .NET Runtime
 //
@@ -5,16 +7,14 @@
 //   1. install dotnet-script
 //     dotnet tool install -g dotnet-script
 //   2. run this script
-//     dotnet script ./modular-diagram-reformatter.csx
+//     ./xml-reformatter.csx a.xml b.xml
+//     dotnet script ./xml-reformatter.csx a.xml b.xml
 
 using System;
 using System.Xml;
 using System.Xml.Linq;
 using System.Text;
 
-const string file = "./modular-diagram.svg";
-
-var doc = XDocument.Load(file);
 var settings = new XmlWriterSettings() {
   Encoding = new UTF8Encoding(false),
   Indent = true,
@@ -22,7 +22,14 @@ var settings = new XmlWriterSettings() {
   NewLineChars = "\n",
 };
 
-using (var writer = XmlWriter.Create(file, settings)) {
-  doc.Save(writer);
-}
+foreach (var file in Args) {
+  Console.Write($"reformatting {file} ... ");
 
+  var doc = XDocument.Load(file);
+
+  using (var writer = XmlWriter.Create(file, settings)) {
+    doc.Save(writer);
+  }
+
+  Console.WriteLine("done");
+}

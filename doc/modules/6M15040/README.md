@@ -4,6 +4,10 @@
 ![基盤表面](https://github.com/smdn/txline-map-display/blob/images/doc/modules/6M15040/board-front.jpg)
 ![基盤裏面](https://github.com/smdn/txline-map-display/blob/images/doc/modules/6M15040/board-back.jpg)
 
+## 回路
+- [表示出力部](circuit-block/block_display-output.md)
+- [電源・フィルタ部](circuit-block/block_power-filter.md)
+
 ## インターフェイス
 RS-485/RS-422(?)
 
